@@ -1,5 +1,18 @@
 # 🈯 Mini Language Translator
 
+## Objective
+Build a mini language translator that converts text between English and Hindi using pretrained MarianMT models.  
+The goal is to demonstrate a compact and efficient Seq2Seq translation pipeline suitable for small datasets.
+
+---
+
+## Tech Stack
+- **Python 3.10+**
+- **Hugging Face Transformers (MarianMT)**
+- **Streamlit** (for UI)
+- **pandas** (for CSV handling)
+- **pytest** (for tests)
+
 Translate between English ↔ Hindi using pretrained Helsinki-NLP MarianMT models from Hugging Face.
 
 ## Overview
