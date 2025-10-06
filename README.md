@@ -1,4 +1,4 @@
-# 🈯 Mini Language Translator
+#  Mini Language Translator
 
 ## Objective
 Build a mini language translator that converts text between English and Hindi using pretrained MarianMT models.  
